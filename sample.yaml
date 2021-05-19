@@ -1,0 +1,4 @@
+sample:
+  name: Bluetooth LE central IMU
+  description: Bluetooth Low Energy central imu service
+
